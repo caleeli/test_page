@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
 body,
 html {
     color: #000000;
-    font-family: "Roboto", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     height: 100%;
     letter-spacing: 0.025rem;
 }
@@ -719,7 +721,7 @@ a[href^=tel] {
 */
 
 .font-base {
-    font-family: "Roboto", sans-serif !important;
+    font-family: "Montserrat", sans-serif !important;
 }
 .font-alt {
     font-family: "Montserrat", sans-serif !important;
